@@ -1,1 +1,1 @@
-# cctv_number_plate_recognition
+# cctv_licence_plate_recognition
